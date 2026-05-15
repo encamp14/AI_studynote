@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/macintosh/Desktop/AI専用 status)",
+      "Bash(git init *)",
+      "Bash(git add *)"
+    ]
+  }
+}
