@@ -29,9 +29,9 @@ GitHubにpushして
 ```
 以下のGitHubのファイルを読んで、私のことを把握してください。
 
-https://github.com/encamp14/test/blob/main/memory/MEMORY.md
-https://github.com/encamp14/test/blob/main/memory/user_misaki_profile.md
-https://github.com/encamp14/test/blob/main/memory/study_log_20260603.md
+https://github.com/encamp14/AI_test/blob/main/memory/MEMORY.md
+https://github.com/encamp14/AI_test/blob/main/memory/user_misaki_profile.md
+https://github.com/encamp14/AI_test/blob/main/memory/study_log_20260603.md
 ※最新の日付のログに変えてね
 
 把握したら「準備OK！何をしようか？」と教えてください。
@@ -51,7 +51,7 @@ https://github.com/encamp14/test/blob/main/memory/study_log_20260603.md
 ---
 
 ## GitHubのリポジトリ
-https://github.com/encamp14/test
+https://github.com/encamp14/AI_test
 
 memoryフォルダ：
-https://github.com/encamp14/test/tree/main/memory
+https://github.com/encamp14/AI_test/tree/main/memory
